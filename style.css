@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: url(fire.png) no-repeat;
+    height: 700px;
+    padding: 30px;
+    background-size: cover;
+
+}
+.nav {
+    float: right;
+}
+.nebver li a{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.h-contant{
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    margin: 20% 30%;
+    text-align: center;
+}
+.h-contant h1{
+    color: aliceblue;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+.logo {
+    float: left;
+    color: aliceblue;
+    
+}
+.logo h1{
+    color: aliceblue;
+    text-transform: uppercase;
+}
+.nebver{
+    float: right;
+    
+}
+.nebver li{
+    display: inline-flex;
+    color: aliceblue;
+}
+.nebver li a{
+    color: aliceblue;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 20px;
+    font-size: 16px;
+    text-transform: uppercase
+}
+
